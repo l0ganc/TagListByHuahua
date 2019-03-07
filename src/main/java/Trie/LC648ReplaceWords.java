@@ -50,4 +50,10 @@ public class LC648ReplaceWords {
         }
         return res.toString();
     }
+
+    public static void main(String[] args) {
+        String word = "asadaf";
+        System.out.println(word.startsWith("ss"));
+        System.out.println(word.endsWith("ss"));
+    }
 }
