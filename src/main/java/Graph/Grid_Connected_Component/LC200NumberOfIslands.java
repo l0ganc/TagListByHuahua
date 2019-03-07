@@ -1,4 +1,4 @@
-package Graph.Queue_Hashtable.Grid_Connected_Component;
+package Graph.Grid_Connected_Component;
 
 /**
  * time : O(m * n)

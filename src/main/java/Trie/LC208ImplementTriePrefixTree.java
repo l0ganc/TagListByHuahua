@@ -12,7 +12,7 @@ public class LC208ImplementTriePrefixTree {
 
     public TrieNode root;
     /** Initialize your data structure here. */
-    public Trie() {
+    public LC208ImplementTriePrefixTree() {
         root = new TrieNode();
     }
 
