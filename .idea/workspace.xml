@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08b842d7-c68e-4cea-a4ef-9b40fab623a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Graph/Queue_Hashtable/LC133CloneGraph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Trie/LC648ReplaceWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trie/LC648ReplaceWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Trie/LC648ReplaceWords$TrieNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Trie/LC648ReplaceWords.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -29,8 +27,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Trie/LC648ReplaceWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="115">
+              <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Graph/Queue_Hashtable/LC133CloneGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -65,6 +72,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Trie/LC208ImplementTriePrefixTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Trie/LC648ReplaceWords.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Graph/Queue_Hashtable/LC133CloneGraph.java" />
       </list>
     </option>
   </component>
@@ -119,6 +127,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Queue_Hashtable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TagListByHuahua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TagListByHuahua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Trie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -131,7 +147,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551133137975" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551929703289" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -182,15 +198,16 @@
       <option name="presentableId" value="Default" />
       <updated>1550778234075</updated>
       <workItem from="1550778238687" duration="1869000" />
-      <workItem from="1551910228161" duration="183000" />
+      <workItem from="1551910228161" duration="894000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2052000" />
+    <option name="totallyTimeSpent" value="2763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -234,13 +251,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/LC648ReplaceWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Trie/LC208ImplementTriePrefixTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -249,6 +259,20 @@
             <element signature="e#341#342#0" expanded="true" />
             <element signature="e#378#379#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Trie/LC648ReplaceWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Graph/Queue_Hashtable/LC133CloneGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
         </state>
       </provider>
     </entry>
